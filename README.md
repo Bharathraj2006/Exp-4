@@ -6,17 +6,17 @@ To draw the UML diagram for HOSPITAL MANAGEMENT SYSTEM.
 # SRS (Procedure):
 Create the following diagrams in StarUML:
 
-Use Case Diagram
+1. Use Case Diagram
 
-Class Diagram
+2. Class Diagram
 
-Activity Diagram
+3. Activity Diagram
 
-Package Diagram
+4. Package Diagram
 
-Communication Diagram
+5. Communication Diagram
 
-Sequence Diagram
+6. Sequence Diagram
 
 # DIAGRAMS:
 
